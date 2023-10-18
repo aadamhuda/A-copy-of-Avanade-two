@@ -1,4 +1,8 @@
 
+All of the feature development will happen here.
+
+The new feature will peel the carrots and maybe even chop them.
+
 This is still the dev branch.
 
 All of the feature development will happen here.
@@ -12,5 +16,11 @@ The development team is as cool as a cucumber.
 There is a very small amount of lettuce at home but a lot of radishes.
 
 The development branch is always getting edited.
+
+There is a very small amount of lettuce at home.
+
+I would like for feature 2 to have a carrot.
+
+Maybe we could peel carrots with it.
 
 I wonder how the dev branch will look at the end.
