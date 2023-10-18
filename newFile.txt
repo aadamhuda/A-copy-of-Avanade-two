@@ -1,5 +1,9 @@
-This is the development branch.
+This is now the feature branch.
 
-All the main development will happen here.
+All of the feature development will happen here.
+
+The new feature is going to count the lettuce.
 
 The development team is most definitely as cool as a cucumber.
+
+There is a very small amount of lettuce at home.
