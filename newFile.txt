@@ -1,9 +1,11 @@
-This is now the feature branch.
+This is now the feature branch for feature 3.
 
 All of the feature development will happen here.
 
-The new feature is going to count the lettuce.
+The old feature counted the lettuce.
 
-The development team is most definitely as cool as a cucumber.
+The new feature will now chop a radish.
 
-There is a very small amount of lettuce at home.
+The development team is as cool as a cucumber.
+
+There is a very small amount of lettuce at home but a lot of radishes.
