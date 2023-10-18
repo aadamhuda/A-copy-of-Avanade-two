@@ -1,0 +1,5 @@
+This is the development branch.
+
+All the main development will happen here.
+
+The development team is most definitely as cool as a cucumber.
