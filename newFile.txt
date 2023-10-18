@@ -1,4 +1,5 @@
-This is now the feature branch for feature 3.
+
+This is still the dev branch.
 
 All of the feature development will happen here.
 
@@ -9,3 +10,7 @@ The new feature will now chop a radish.
 The development team is as cool as a cucumber.
 
 There is a very small amount of lettuce at home but a lot of radishes.
+
+The development branch is always getting edited.
+
+I wonder how the dev branch will look at the end.
